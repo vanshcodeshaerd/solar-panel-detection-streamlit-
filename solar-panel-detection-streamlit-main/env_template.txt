@@ -1,0 +1,7 @@
+# Copy this content to your .env file
+# Replace YOUR_ROBOFLOW_API_KEY with your actual Roboflow API key
+
+ROBOFLOW_API_KEY=YOUR_ROBOFLOW_API_KEY
+GOOGLE_API_KEY=AIzaSyDkIwC8qL9a7f3kP5mN2rX6tY8vZ9wB1qJ4
+ROBOFLOW_PROJECT=solar-panel-detection-2
+ROBOFLOW_WORKSPACE=roboflow-ai-hackathon
